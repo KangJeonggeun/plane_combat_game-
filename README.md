@@ -7,6 +7,9 @@
 This is a classic aerial combat game. I used a template and added several features. I created new designs for the game characters using Adobe Illustrator. Additionally, I added a new feature that allows players to select their character. With this feature, players can see and choose the character they want to play with. Furthermore, I made the start and game-over flow more user-friendly. I also solved a technical issue that arose from rockets and planes being in the same class.
 
 Through this project, I deepened my understanding of Python classes and object-oriented programming. After building the project, I taught students Python and OOP.
+
+
+
 ![2](https://github.com/user-attachments/assets/825a1e67-c702-410f-9870-dfb4803a625c)
 ![3](https://github.com/user-attachments/assets/929877ae-a025-4e62-885a-37c5d515b8a4)
 
