@@ -1,18 +1,22 @@
-This is the game that I learnt Python with.
+# **Python Game**
 
-I studied from the following great video and modified the game.
-https://www.youtube.com/watch?v=Q-__8Xw9KTM ( Tech With Tim https://www.youtube.com/@TechWithTim )
+## **Skills:**
+**Python, Object-Oriented Programming, Pygame, Teaching, Library Research, Adobe Illustrator (Design)**
 
-I added,
-0.New designs for the planes and missiles.
+## **About the Project:**
+This is a classic aerial combat game. I used a template and added several features. I created new designs for the game characters using Adobe Illustrator. Additionally, I added a new feature that allows players to select their character. With this feature, players can see and choose the character they want to play with. Furthermore, I made the start and game-over flow more user-friendly. I also solved a technical issue that arose from rockets and planes being in the same class.
 
-1.character choice function
-the player can choose the character he wants to play.
+Through this project, I deepened my understanding of Python classes and object-oriented programming. After building the project, I taught students Python and OOP.
+![2](https://github.com/user-attachments/assets/825a1e67-c702-410f-9870-dfb4803a625c)
+![3](https://github.com/user-attachments/assets/929877ae-a025-4e62-885a-37c5d515b8a4)
 
-2.I resolved the problem that missiles instantly disappear when the enemy plane which lunched the missiles is eiminated.
+# **Python-Spiel**
 
-3.I changed a lot of variable names while playing with the code, also some of structures of functions, classes,,
+## **Fähigkeiten:**
+**Python, Objektorientierte Programmierung, Pygame, Lehren, Bibliotheken-Recherche, Adobe Illustrator (Design)**
 
-This was one of my first programms and I learnt a lot while playing with the code.
-To run the program, you need to install the library Pygame. 
-You can directly run the 8th file. 
+## **Über das Projekt:**
+Dies ist ein klassisches Flugkampfspiel. Ich habe eine Vorlage verwendet und mehrere Funktionen hinzugefügt. Ich habe neue Designs für die Spielfiguren mit Adobe Illustrator erstellt. Außerdem habe ich eine neue Funktion hinzugefügt, mit der man seinen Charakter auswählen kann. Mit dieser Funktion kann man einen Charakter sehen und wählen, mit dem man spielen möchte. Zudem habe ich den Start- und Game-Over-Flow benutzerfreundlicher gestaltet. Ich habe auch ein technisches Problem gelöst, das dadurch entstand, dass Raketen und Flugzeuge in derselben Klasse waren.
+
+Durch dieses Projekt habe ich mein Verständnis für Python-Klassen und objektorientierte Programmierung vertieft. Nach dem Bau des Projekts habe ich Schülern Python und OOP beigebracht.
+
